@@ -18,3 +18,6 @@ Starter kit for the users who are new to react and readux want to call some api'
 
 # Now you can run the app using emulator
 ## react-native run-android
+
+##Check this for reference
+*https://medium.com/@lavitr01051977/make-your-first-call-to-api-using-redux-saga-15aa995df5b6
